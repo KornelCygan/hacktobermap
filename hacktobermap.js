@@ -1108,5 +1108,11 @@ var hacktobermap = [
     location: "Coimbatore, Tamil nadu",
     latitude: 11.0168,
     longitude: 76.9558
+  },
+  {
+    name: "Kornel Cygan",
+    location: "Katowice",
+    latitude: 50.264893,
+    longitude: 19.023781
   }
 ];
